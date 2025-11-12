@@ -1,0 +1,1 @@
+This account creation program is for simulation purposes only. Do not use your real name, real credentials, or actual passwords when creating an account. Any information entered is for demonstration only and is not securely stored or protected.
